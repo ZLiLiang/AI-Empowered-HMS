@@ -1,0 +1,10 @@
+Java Engineer - Core Requirements
+
+1. 5+ years of Java development experience with solid OOP and design pattern understanding.
+2. Strong hands-on experience with Spring Boot, Spring Cloud, RESTful API design, and microservice architecture.
+3. Experience in high-concurrency and high-availability systems, including performance tuning and fault isolation.
+4. Proficiency in SQL optimization, transaction handling, and common relational databases such as MySQL or PostgreSQL.
+5. Familiarity with caching and messaging components such as Redis, Kafka, or RabbitMQ.
+6. Ability to troubleshoot production incidents, perform root-cause analysis, and implement preventive improvements.
+7. Good engineering practices including unit testing, code review, CI/CD, and observability.
+8. Effective collaboration with product, QA, and operations teams to deliver reliable features on schedule.
